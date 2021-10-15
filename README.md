@@ -28,10 +28,7 @@ This is a repo for beginners to experience the path of open source contribution
 ## Students Instructions
 
 ###  For this repo
-Create a fork of this repo to your account.
-``` 
-💡 search StackOverflow on how to Fork a repo in GitHub
-```
+Create a fork of this repo to your account. Visit this [link](https://www.dataschool.io/how-to-contribute-on-github/) for help.
 
 ### Contribute
 Add your contribution to the repo by editing the contents of the folder with your campus name.
